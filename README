@@ -1,0 +1,12 @@
+The project provides a set of well-defined endpoints that allow clients
+to perform CRUD (Create, Read, Update, Delete) operations on a collection of books
+using HTTP methods such as GET, POST, PUT, and DELETE.
+
+The project follows the principles of REST, such as using unique resource identifiers (URIs)
+to identify resources, using standard HTTP methods to manipulate resources,
+and returning data in a standard data format such as JSON.
+
+By following these principles, the project promotes scalability, flexibility,
+and loose coupling between the client and server components of a web application.
+It allows clients to interact with the API using a wide range of programming languages
+and platforms, and it enables developers to evolve the API over time without breaking backward compatibility.
