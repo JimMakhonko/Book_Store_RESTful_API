@@ -9,6 +9,7 @@ public class Book {
     private Long id;
     private String title;
     private String author;
+
     public Long getId() {
         return id;
     }
